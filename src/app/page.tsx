@@ -76,14 +76,14 @@ export default function Home() {
           <div className="space-y-4">
             <div>
               <p className="font-medium text-black mb-2">Kusama:</p>
-              <code className="bg-gray-100 p-2 rounded block text-sm break-words">
-                HAzunPwW18ZndVjeF974nfHEjUTkWm6sTGmsKKXZvnbz7yX
+              <code className="bg-gray-100 p-2 rounded block text-sm text-black break-words">
+                15EPF99UNxYhUvkvm9sRGd7bXp3sjQHfg2y393bM5K5THrNN
               </code>
             </div>
             <div>
               <p className="font-medium text-black mb-2">Polkadot:</p>
-              <code className="bg-gray-100 p-2 rounded block text-sm break-words">
-                13StobwMokjUy5QdkqZxzWJKC1Dmb4SeDL2qYJL3ot6KBGVt
+              <code className="bg-gray-100 p-2 rounded block text-sm text-black break-words">
+                GaVHoKzDn9vL2hFaJxKv2iukaV3MHvShm6HceAyRFYgxpZi
               </code>
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function Home() {
       <footer className="bg-black text-white py-2">
         <div className="container mx-auto px-4 flex justify-center space-x-4">
           <a
-            href="https://discord.com/invite/polkadot"
+            href="https://discord.gg/PrzCqCHutt"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#FF2670] hover:text-[#FF2670]/80 transition-colors flex items-center space-x-1"
