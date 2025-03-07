@@ -75,13 +75,13 @@ export default function Home() {
           </h3>
           <div className="space-y-4">
             <div>
-              <p className="font-medium text-black mb-2">Kusama:</p>
+              <p className="font-medium text-black mb-2">Polkadot:</p>
               <code className="bg-gray-100 p-2 rounded block text-sm text-black break-words">
                 15EPF99UNxYhUvkvm9sRGd7bXp3sjQHfg2y393bM5K5THrNN
               </code>
             </div>
             <div>
-              <p className="font-medium text-black mb-2">Polkadot:</p>
+              <p className="font-medium text-black mb-2">Kusama:</p>
               <code className="bg-gray-100 p-2 rounded block text-sm text-black break-words">
                 GaVHoKzDn9vL2hFaJxKv2iukaV3MHvShm6HceAyRFYgxpZi
               </code>
@@ -105,7 +105,7 @@ export default function Home() {
             {/* <span>Discord</span> */}
           </a>
           <a
-            href="https://x.com/Polkadot"
+            href="https://x.com/colectivojalea"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#FF2670] hover:text-[#FF2670]/80 transition-colors flex items-center space-x-1"
